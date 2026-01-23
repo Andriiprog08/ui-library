@@ -1,0 +1,13 @@
+.icon-link img{
+    transition: filter 0.2s ease, transform 0.15s ease;
+    filter: drop-shadow(0 0 6px rgba(255,255,255,0.4));
+}
+
+.icon-link:hover img {
+    filter: drop-shadow(0 0 6px rgba(200, 200, 200,0.8));
+}
+
+.icon-link:active img{
+    filter: drop-shadow(0 0 6px rgba(120,120,120,0.9));
+    transform: scale(0.95);
+}
