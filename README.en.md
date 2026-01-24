@@ -2,7 +2,9 @@
 
 > [!IMPORTANT]
 > What's in the folders:
->
-> - **Components** — Main Components
+
+<!-- > - **Components** — Main Components -->
+
 > - **Details** — Trifle
-> - **Section** — Large Blocks
+
+<!-- > - **Section** — Large Blocks -->

@@ -14,3 +14,13 @@
 .image-box img:hover{
     transform: scale(1.2);
 }
+
+/* 
+overflow: hidden — Картинка не вылазит за заданые границы ()
+
+object-fit: cover — Элемент заполняет весь контейнер, сохраняя пропорции, а лишнее обрезается ()
+
+transition: transform 0.3s ease —  ()
+
+transform: scale(1.2) —  ()
+ */
