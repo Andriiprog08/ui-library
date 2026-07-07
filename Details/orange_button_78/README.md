@@ -8,5 +8,5 @@ A button with rounded corners. Dark red in the center with an orange border. Whe
   <img src="button_78-before.png" width="40%" />
 </p>
 <p align="center">
-  <img src="button_78-before.png" width="40%" />
+  <img src="button_78-after.png" width="40%" />
 </p>
