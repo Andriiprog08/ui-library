@@ -16,10 +16,9 @@
 }
 
 /* 
-overflow: hidden — Картинка не вылазит за заданые границы (The image does not extend beyond the specified boundaries.)
+overflow: hidden — The image does not extend beyond the specified boundaries.
 
-object-fit: cover — Элемент заполняет весь контейнер, сохраняя пропорции, а лишнее обрезается (The element fills the entire container, maintaining proportions, and excess is cropped.)
+object-fit: cover — The element fills the entire container, maintaining proportions, and excess is cropped.
 
-transition: transform 0.3s ease — когда значение transform меняется, оно будет плавно переходить к новому состоянию за 0,3 секунды с эффектом «плавного старта и финиша».
-(When the transform value changes, it will smoothly transition to the new state in 0.3 seconds with a ‘smooth start and finish’ effect.)
+transition: transform 0.3s ease — When the transform value changes, it will smoothly transition to the new state in 0.3 seconds with a ‘smooth start and finish’ effect.
  */
