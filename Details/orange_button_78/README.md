@@ -1,5 +1,5 @@
 # Orange button 78
 
-# Описание:
+# Description
 
-Кнопка с закругленными углами. Темно красная в середине с оранжевым ободком. Когда наводишь становится ярко оранжевая.
+A button with rounded corners. Dark red in the center with an orange border. When you hover over it, it turns bright orange.

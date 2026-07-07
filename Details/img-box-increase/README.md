@@ -1,5 +1,5 @@
 # Img Box Increase
 
-# Описание
+# Description
 
-Это картинка которая увеличивается когда на неё наводиш курсором. При этом размеры остаются те же.
+This is an image that enlarges when you hover over it with the cursor. The dimensions remain the same.

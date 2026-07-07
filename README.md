@@ -1,9 +1,10 @@
 # ui-library
 
 > [!IMPORTANT]
-> Что находится в папках:
->  - **Details** — Мелочь
+> What's in the folders:
+>
+> - **Details** — Trifle
 
-<!-- > - **Components** — Основные компоненты -->
+<!-- > - **Components** — Main Components -->
 
-<!-- > - **Section** — Крупные Блоки -->
+<!-- > - **Section** — Large Blocks -->
