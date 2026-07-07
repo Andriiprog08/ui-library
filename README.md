@@ -7,4 +7,4 @@
 
 <!-- > - **Components** — Main Components -->
 
-<!-- > - **Section** — Large Blocks -->
+> - **Section** — Large Blocks
