@@ -1,0 +1,48 @@
+<section class="form-section">
+    <h2>Add a product</h2>
+
+    <div class="form-fields">
+        <div class="form-group">
+            <label>Product name</label>
+            <input type="text" placeholder="For example: Bread">
+        </div>
+
+        <div class="form-group">
+            <label>Unit of measurement</label>
+            <select id="product-unit">
+                <option value="kg">Kilograms (kg)</option>
+                <option value="g">Grammes (g)</option>
+                <option value="l">Litres (l)</option>
+                <option value="ml">Millilitres (ml)</option>
+                <option value="unit">Items (pcs)</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Quantity</label>
+            <input type="number" placeholder="0" step="0.01">
+        </div>
+
+        <div class="form-group">
+            <label>Price type</label>
+            <select id="price-type">
+                <option value="per-unit">Price per kg / litre</option>
+                <option value="per-package-weight">Price per pack (by weight in grams)</option>
+                <option value="per-package-count">Price per pack (per item)</option>
+                <option value="per-piece">Price per item</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label id="price-label">Price per kg / per litre</label>
+            <input type="number" placeholder="0.00">
+        </div>
+
+        <div class="form-group hidden">
+            <label>Weight / package volume</label>
+            <input type="number" placeholder="Например: 200">
+        </div>
+
+        <button>Add a card</button>
+    </div>
+</section>
